@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Gdansk Tour Guide App</string>
+
+    <string name="category_museums">Museums</string>
+
+    <string name="national_museum_name">National Museum in Gdansk></string>
+    <string name="national_museum_address">Toruńska 1, 22-100 Gdańsk</string>
+    <string name="national_museum_description">National Museum in Gdansk was established in 1972. The main department
+        on Torunska has a number of interesting expositions related to ancient art. If you are more interested in modern art,
+        then the department in Oliwa Park should be more appealing to you. </string>
+    <string name="national_museum_website">www.muzeumnarodowe.pl</string>
+
+    <string name="maritime_museum_name">National Maritime Museum</string>
+    <string name="maritime_museum_address">Szeroka 67/68, 80-835 Gdańsk</string>
+    <string name="maritime_museum_description">...</string>
+    <string name="maritime_museum_website">www.nmm.pl/</string>
+
+    <string name="solidarity_name">European Solidarity Center</string>
+    <string name="solidarity_address">pl. Solidarności 1, 80-863 Gdańsk</string>
+    <string name="solidarity_description">...</string>
+    <string name="solidarity_website">www.ecs.gda.pl/</string>
+
+    <string name="ww2_museum_name">Museum of the Second World War</string>
+    <string name="ww2_museum_address">Plac Władysława Bartoszewskiego 1, 80-862 Gdańsk</string>
+    <string name="ww2_museum_description">...</string>
+    <string name="ww2_museum_website">www.muzeum1939.pl/</string>
+
+    <string name="amber_museum_name">Amber Museum in Gdansk</string>
+    <string name="amber_museum_address">Targ Węglowy 26, 22-100 Gdańsk</string>
+    <string name="amber_museum_description">Amber Museum in Gdansk</string>
+    <string name="amber_museum_website">www.mhmg.pl/oddzial/17/amber-museum</string>
+
+
+    <string name="category_restaurants_and_cafes">Restaurants and cafes</string>
+    <string name="pikawa_cafe_name">Pikawa</string>
+    <string name="pikawa_cafe_address">Piwna 14/15, 80-831 Gdańsk</string>
+    <string name="pikawa_cafe_description">A cozy cafe in the center of Gdansk. It is said to be one of the favourite student
+        cafes. </string>
+    <string name="pikawa_cafe_website">www.pikawa.pl</string>
+
+
+    <string name="category_tourist_attractions">Tourist attractions</string>
+    <string name="zuraw_name">Brama Zuraw</string>
+    <string name="zuraw_address">Szeroka 67/68, 22-100 Gdańsk</string>
+    <string name="zuraw_description">Zuraw is in the center of Gdansk. </string>
+    <string name="zuraw_website">wwww.zuraw.pl</string>
+
+</resources>
